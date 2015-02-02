@@ -1,0 +1,23 @@
+{
+  "name": "procrastinate.js",
+  "version": "0.0.0",
+  "description": "coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Procrastinate/procrastinate.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Procrastinate/procrastinate.js/issues"
+  },
+  "homepage": "https://github.com/Procrastinate/procrastinate.js",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
